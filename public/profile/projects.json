@@ -1,0 +1,25 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/my-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://shashank-portfolio69.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Vercel",
+                "Portfolio",
+                "JavaScript"
+            ]
+        }
+    ]
+}
