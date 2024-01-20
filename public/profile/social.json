@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/shashank-rana-371215245/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/IamShashankkkk?tab=projects"
+        },
+        {
+            "network" : "email",
+            "href": "https://mail.google.com/mail/u/0/#inbox?compose=new"
+        }
+    ]
+}
