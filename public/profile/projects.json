@@ -21,5 +21,26 @@
                 "JavaScript"
             ]
         }
+        {
+            "image" : "images/projects/file-sharing.png",
+            "title": "File-sharing-system",
+            "bodyText": "- File-sharing-system made in MERN\n -  For sharing all types of file(size-100MB) .\n - We have to upload file and then we get a link to download it.\n We can share the link in place of document ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/File-sharing"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/IamShashankkkk/File-sharing"
+                }
+            ],
+            "tags" : [
+                "React",
+                "mongoDB",
+                "JavaScript",
+                "Heroku"
+            ]
+        }
     ]
 }
