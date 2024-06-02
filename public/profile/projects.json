@@ -24,7 +24,7 @@
         {
             "image" : "images/projects/file-sharing.png",
             "title": "File-sharing-system",
-            "bodyText": "- File-sharing-system made in MERN\n -  For sharing all types of file(size-100MB) .\n - We have to upload file and then we get a link to download it.\n We can share the link in place of document ",
+            "bodyText": "- File-sharing-system made in MERN\n -  For sharing all types of file(size-100MB) .\n - We have to upload file and then we get a link to download it.",
             "links": [
                 {
                     "text": "GitHub",
@@ -40,6 +40,24 @@
                 "mongoDB",
                 "JavaScript",
                 "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/Food-Ordering-System.png",
+            "title": "Food-ordering-system",
+            "bodyText": "-Food-Ordering-System made with HTML only.\n -  we can add/remove any food into a cart.\n - Then we have to choose payment method. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/food_management"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/IamShashankkkk/food_management"
+                }
+            ],
+            "tags" : [
+                "HTML"
             ]
         }
     ]
