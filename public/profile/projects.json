@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/portfolio.png",
             "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully dynamic, easy functionality and informative about myself.\n - Dark Mode Support",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully static, easy functionality and informative about myself.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
@@ -45,7 +45,7 @@
         {
             "image" : "images/projects/Food-Ordering-System.png",
             "title": "Food-ordering-system",
-            "bodyText": "-Food-Ordering-System made with HTML only.\n -  we can add/remove any food into a cart.\n - Then we have to choose payment method. ",
+            "bodyText": "-  Food-Ordering-System made with HTML only.\n -  we can add/remove any food into a cart.\n - Then we have to choose payment method(cash , UPI , Dabit/credit card). ",
             "links": [
                 {
                     "text": "GitHub",
@@ -58,6 +58,25 @@
             ],
             "tags" : [
                 "HTML"
+            ]
+        },
+        {
+            "image" : "images/projects/Top-Indian-Singers-blog.png",
+            "title": "Top-Indian-Singers-blog",
+            "bodyText": "-  Top Indian Singers blog made with HTML & CSS only.\n -  This blogs gives you information about top indian singers in india.\n -  This is pure static website for collecting information.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/food_management"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/IamShashankkkk/food_management"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS"
             ]
         }
     ]
