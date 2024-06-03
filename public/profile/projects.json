@@ -38,8 +38,27 @@
             "tags" : [
                 "React",
                 "mongoDB",
-                "JavaScript",
-                "Heroku"
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/chatbot.png",
+            "title": "Pizzabot",
+            "bodyText": "- This bot is made with a DialogFlow ES.\n - If we have query about pizza order then we can chat with it Like an autobot.\n - A chatbot is simulates human conversation through voice commands, text chats, or both ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/Pizzabot"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/IamShashankkkk/Pizzabot"
+                }
+            ],
+            "tags" : [
+                "DialogFlow",
+                "node.js",
+                "JavaScript"
             ]
         },
         {
@@ -63,7 +82,7 @@
         {
             "image" : "images/projects/Top-Indian-Singers-blog.png",
             "title": "Top-Indian-Singers-blog",
-            "bodyText": "-  Top Indian Singers blog made with HTML & CSS only.\n -  This blogs gives you information about top indian singers in india.\n -  This is pure static website for collecting information.",
+            "bodyText": "-  Top Indian Singers blog made with HTML & CSS.\n -  This blogs gives you information about top indian singers in india.\n -  This is pure static website for collecting information.",
             "links": [
                 {
                     "text": "GitHub",
